@@ -40,6 +40,10 @@ openai = [
     "tiktoken~=0.4.0",
 ]
 
+guidance = [
+    "guidance~=0.0.64",
+]
+
 [project.urls]
 "Homepage" = "https://github.com/zhudotexe/kani"
 "Bug Tracker" = "https://github.com/zhudotexe/kani/issues"
